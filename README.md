@@ -3,7 +3,7 @@
 ### Aldi Hermansyah - 312310200 - Ti.23.A2
 
 ### Perubahan sesuai urutan:
-```ada beberapa hal yang harus diperbaiki```
+```ada beberapa hal masih dalam perbaikan```
 ## 1. Buat file ```header.php``` <br>
    > <img src="file/img/header.png" alt="">
 
